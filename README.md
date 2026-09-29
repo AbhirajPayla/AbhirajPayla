@@ -30,7 +30,7 @@
 
 
 
-<div style="font-size: 16px; line-height: 0.3;">
+<div style="font-size: 16px; line-height: 1.2;">
 
   Currently working on: My First Discord Bot<br>
 
