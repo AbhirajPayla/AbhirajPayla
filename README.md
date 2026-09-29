@@ -17,37 +17,30 @@
 
 <p align="center">I recently graduated my high school. I love learning new technologies and building projects that solve real-world problems. When I'm not coding, I enjoy creating content, reading, and exercising.</p>
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirajpayla) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@AbhirajPayla) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhirajpayla@gmail.com)
-</div>
+# 💫 About Me:
+Currently working on: My First Discord Bot<br>Currently learning: Python, Maths and Economics<br>Ask me about: Linux <br>Fun fact: I can code in my dreams!<br><br> 
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhirajpayla) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AbhirajPayla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhirajpayla@gmail.com) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AbhirajPayla&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AbhirajPayla&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AbhirajPayla&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbhirajPayla&theme=dark&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AbhirajPayla&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AbhirajPayla&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## What I'm Learning
-
-Currently working on: **My First Discord Bot**
-Currently learning: **Python, Maths and Economics**
-Ask me about: **Python, HTML/CSS**
-Fun fact: **I can code in my dreams!**
-
-<h2 align="center">Technologies I Know 🛠️</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,vim,linux,powershell,bash,ai&perline=9&theme=dark" />
-</div>
-
-<h3 align="center">Technologies on My Roadmap 🗺️</h3>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,docker,blender,cpp,cs&perline=6&theme=dark" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A1A1A1A%2C50%3A2D3748%2C100%3A121212&height=100&section=footer&text=The%20best%20time%20to%20start%20was%20yesterday.%20The%20next%20best%20time%20is%20now.%20&fontSize=24&fontColor=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0%3AFF6B6B%2C50%3AFFE66D%2C100%3A4ECDC4&height=100&section=header&text=Learning%20Every%20Day!&fontSize=50&animation=fadeIn&fontColor=ffffff" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
