@@ -12,7 +12,7 @@
 <h1 align="center">Hi, I'm Abhiraj Payla!</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&height=30&lines=Learning%20to%20code%2C%20one%20bug%20at%20a%20time.%3BBuilding%20cool%20stuff%20with%20Python.%3BOpen%20to%20internships%20%26%20collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D3D3D3&center=true&vCenter=true&width=435&height=30&lines=Learning%20to%20code.%3BLinux%20Enthusiast.%3BBlessed." alt="Typing SVG" />
 </div>
 
 <p align="center">I recently graduated my high school. I love learning new technologies and building projects that solve real-world problems. When I'm not coding, I enjoy creating content, reading, and exercising.</p>
