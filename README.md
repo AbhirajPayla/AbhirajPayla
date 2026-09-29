@@ -11,21 +11,18 @@
 <p align="center">I recently graduated my high school. I love learning new technologies and building projects that solve real-world problems. When I'm not coding, I enjoy creating content, reading, and exercising.</p>
 
 # 💫 About Me:
-<table width="100%" style="border: none !important; border-collapse: collapse !important; background: transparent !important;">
-  <tr style="border: none !important; background: transparent !important;">
-    <td width="50%" valign="middle" style="border: none !important; background: transparent !important;">
-      <div style="font-size: 17px; line-height: 2;">
-        <b>Currently working on:</b> My First Discord Bot<br>
-        <b>Currently learning:</b> Python, Maths and Economics<br>
-        <b>Ask me about:</b> Linux<br>
-        <b>Fun fact:</b> I can code in my dreams!
-      </div>
-    </td>
-    <td width="50%" align="center" valign="middle" style="border: none !important; background: transparent !important;">
-      <img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" alt="Wave GIF" width="280" />
-    </td>
-  </tr>
-</table>
+
+<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
+  <div style="font-size: 17px; line-height: 2; flex: 1; padding-right: 20px;">
+    <b>Currently working on:</b> My First Discord Bot<br>
+    <b>Currently learning:</b> Python, Maths and Economics<br>
+    <b>Ask me about:</b> Linux<br>
+    <b>Fun fact:</b> I can code in my dreams!
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" alt="Wave GIF" width="260" />
+  </div>
+</div>
 
 <br>
 
