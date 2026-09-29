@@ -11,16 +11,16 @@
 <p align="center">I recently graduated my high school. I love learning new technologies and building projects that solve real-world problems. When I'm not coding, I enjoy creating content, reading, and exercising.</p>
 
 # 💫 About Me:
-<table>
-  <tr>
-    <td width="75%" valign="middle">
+<table border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="55%" valign="middle" style="border: none;">
       Currently working on: My First Discord Bot<br>
       Currently learning: Python, Maths and Economics<br>
       Ask me about: Linux<br>
       Fun fact: I can code in my dreams!
     </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" alt="Wave GIF" width="110" />
+    <td width="45%" align="center" valign="middle" style="border: none;">
+      <img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" alt="Wave GIF" width="220" />
     </td>
   </tr>
 </table>
@@ -41,7 +41,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbhirajPayla&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️️ Random Dev Quote
+### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
