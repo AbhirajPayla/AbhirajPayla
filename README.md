@@ -26,7 +26,7 @@
 
 
 
-<img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" align="right" width="200" alt="Wave GIF" />
+<img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" align="right" width="170" alt="Wave GIF" />
 
 
 
