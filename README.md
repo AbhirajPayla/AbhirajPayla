@@ -12,12 +12,14 @@
 
 # 💫 About Me:
 
-<img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" align="right" width="210" alt="Wave GIF" />
+<img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" align="right" width="350" alt="Wave GIF" />
 
-Currently working on: My First Discord Bot<br>
-Currently learning: Python, Maths and Economics<br>
-Ask me about: Linux<br>
-Fun fact: I can code in my dreams!
+<div style="font-size: 16px; line-height: 1.8;">
+  Currently working on: My First Discord Bot<br>
+  Currently learning: Python, Maths and Economics<br>
+  Ask me about: Linux<br>
+  Fun fact: I can code in my dreams!
+</div>
 
 <br clear="all">
 
