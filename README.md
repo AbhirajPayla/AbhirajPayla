@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/ab·hi·raj (1).jpg">
+  <img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/6a23c26238b5facb931397c1936427613f710d72/ab%C2%B7hi%C2%B7raj%20(5).png">
 </p>
 
 <div align="center">
