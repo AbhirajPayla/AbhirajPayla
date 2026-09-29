@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/ab·hi·raj (1).jpg">
+</p>
+
 <div align="center">
 
 
