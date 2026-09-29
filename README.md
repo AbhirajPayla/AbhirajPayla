@@ -11,15 +11,15 @@
 <p align="center">I recently graduated my high school. I love learning new technologies and building projects that solve real-world problems. When I'm not coding, I enjoy creating content, reading, and exercising.</p>
 
 # 💫 About Me:
-<table border="0" style="border: none !important; border-collapse: collapse !important; background: transparent !important;">
-  <tr style="border: none !important; background: transparent !important;">
-    <td width="50%" valign="middle" style="border: none !important; background: transparent !important;">
+<table style="border: 0px solid transparent !important; border-collapse: collapse !important; background-color: transparent !important;">
+  <tr style="border: none !important; background-color: transparent !important;">
+    <td width="50%" valign="middle" style="border: none !important; background-color: transparent !important;">
       Currently working on: My First Discord Bot<br>
       Currently learning: Python, Maths and Economics<br>
       Ask me about: Linux<br>
       Fun fact: I can code in my dreams!
     </td>
-    <td width="50%" align="center" valign="middle" style="border: none !important; background: transparent !important;">
+    <td width="50%" align="center" valign="middle" style="border: none !important; background-color: transparent !important;">
       <img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" alt="Wave GIF" width="220" />
     </td>
   </tr>
