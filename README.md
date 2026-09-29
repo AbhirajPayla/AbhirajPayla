@@ -11,17 +11,23 @@
 <p align="center">I recently graduated my high school. I love learning new technologies and building projects that solve real-world problems. When I'm not coding, I enjoy creating content, reading, and exercising.</p>
 
 # 💫 About Me:
+<table width="100%" style="border: none !important; border-collapse: collapse !important; background: transparent !important;">
+  <tr style="border: none !important; background: transparent !important;">
+    <td width="50%" valign="middle" style="border: none !important; background: transparent !important;">
+      <div style="font-size: 17px; line-height: 2;">
+        <b>Currently working on:</b> My First Discord Bot<br>
+        <b>Currently learning:</b> Python, Maths and Economics<br>
+        <b>Ask me about:</b> Linux<br>
+        <b>Fun fact:</b> I can code in my dreams!
+      </div>
+    </td>
+    <td width="50%" align="center" valign="middle" style="border: none !important; background: transparent !important;">
+      <img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" alt="Wave GIF" width="280" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github.com/AbhirajPayla/AbhirajPayla/blob/e2c03783f3882b1521e7d308db038731c8fc6c83/_.gif" align="right" width="300" alt="Wave GIF" />
-
-<div style="font-size: 16px; line-height: 1.8;">
-  Currently working on: My First Discord Bot<br>
-  Currently learning: Python, Maths and Economics<br>
-  Ask me about: Linux<br>
-  Fun fact: I can code in my dreams!
-</div>
-
-<br clear="all">
+<br>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
