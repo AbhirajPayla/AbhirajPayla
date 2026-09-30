@@ -97,7 +97,3 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
-But the about me text is looking akward like stuffed to top and smaller in size 
